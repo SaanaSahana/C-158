@@ -1,0 +1,2 @@
+# PRO-C158-Teacher-Ref
+How do I change the default browser to Chrome in VS Code? Go to file-> preferences -> user settings -> search "By Default it will open your default favorite browser" set your browser.
